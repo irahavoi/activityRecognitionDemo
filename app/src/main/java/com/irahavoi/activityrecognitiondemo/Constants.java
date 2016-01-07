@@ -7,4 +7,5 @@ public interface Constants {
     String PACKAGE_NAME = "com.irahavoi";
     String BROADCAST_ACTION = PACKAGE_NAME + ".BROADCAST_ACTION";
     String ACTIVITY_EXTRA = PACKAGE_NAME + ".ACTIVITY_EXTRA";
+    long DETECTION_INTERVAL_MILLIS = 1000L;
 }
